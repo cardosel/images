@@ -1,0 +1,193 @@
+{
+  "name": "Cardi B",
+  "imageUrl": "https://raw.githubusercontent.com/cardosel/images/master/cardib2.png",
+  "area": "Artist",
+  "profileUrl": "https://www.facebook.com/IamCardiB/",
+  "office": "Hip Hop/Pop",
+  "tags": "Artist,cardib,cardi, hiphop",
+  "isLoggedUser": false,
+  "unit": {
+    "type": "Hip Hop/Pop",
+    "value": "Artist 1"
+  },
+  "positionName": "Hip Hop/Pop Artist",
+  "children": [
+    {
+      "name": "Young & Energetic",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/young_energetic.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, Young, Energetic",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": "Interest 1"
+      },
+      "positionName": "Interest 1",
+      "children": [
+            {
+          "name": "Page 1",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 2",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 3",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+        ]
+    },
+
+        {
+      "name": "Artsy & Sensitive",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, Young, Energetic",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": "Interest 1"
+      },
+      "positionName": "Interest 1",
+      "children": [
+            {
+          "name": "Page 1",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 2",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 3",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+        ]
+    },
+
+        {
+      "name": "Wholesome & Devoted",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/wholesome_devoted.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, Young, Energetic",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": "Interest 1"
+      },
+      "positionName": "Interest 1",
+      "children": [
+            {
+          "name": "Page 1",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 2",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+                      {
+          "name": "Page 3",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, Artsy, Sensitive",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Interest",
+            "value": "Interest 2"
+          },
+          "positionName": "Interest 2"},
+
+        ]
+    },
+
+ ]
+}
