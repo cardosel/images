@@ -8,44 +8,43 @@
   "isLoggedUser": false,
   "unit": {
     "type": "Hip Hop/Pop",
-    "value": "Business first"
+    "value": "Artist 1"
   },
   "positionName": "Hip Hop/Pop Artist",
   "children": [
     {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
+      "name": "Young & Energetic",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/young_energetic.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, young, energetic, interest",
       "isLoggedUser": false,
       "unit": {
-        "type": "business",
-        "value": "Business one"
+        "type": "Interest",
+        "value": "Interest 1"
       },
-      "positionName": "CTO ",
+      "positionName": "Interest 1",
       "children": [
         {
-          "name": " Leverling Janet",
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
-          "area": "Corporate",
-          "profileUrl": "http://example.com/employee/profile",
-          "office": "CEO office",
-          "tags": "Ceo,tag1, tag2",
+          "name": " Artsy & Sensitive",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+          "area": "Interest",
+          "profileUrl": "https://www.shareablee.com/error",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, artsy, sensitive, interest",
           "isLoggedUser": false,
           "unit": {
-            "type": "department",
-            "value": " Finance Department",
-            "desc":"Finance Dept description"
+            "type": "Interest",
+            "value": "Interest 2",
           },
-          "positionName": "CTO ",
+          "positionName": "Interest 2",
           "children": [
             {
               "name": " Leverling Janet",
               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
               "area": "Corporate",
-              "profileUrl": "http://example.com/employee/profile",
+              "profileUrl": "https://www.shareablee.com/error",
               "office": "CEO office",
               "tags": "Ceo,tag1, tag2",
               "isLoggedUser": false,
